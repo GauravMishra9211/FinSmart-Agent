@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CUST001",
+    "name": "Gaurav Mishra",
+    "phone": "9991112222",
+    "address": "Noida, UP",
+    "city": "Noida",
+    "credit_score": 768,
+    "salary": 65000,
+    "preapproved_limit": 250000
+  },
+  {
+    "id": "CUST002",
+    "name": "Rahul Singh",
+    "phone": "9876543210",
+    "address": "Delhi",
+    "city": "New Delhi",
+    "credit_score": 720,
+    "salary": 85000,
+    "preapproved_limit": 400000
+  },
+  {
+    "id": "CUST003",
+    "name": "Animesh Kumar",
+    "phone": "8885554444",
+    "address": "Ghaziabad, UP",
+    "city": "Ghaziabad",
+    "credit_score": 681,
+    "salary": 55000,
+    "preapproved_limit": 150000
+  },
+  {
+    "id": "CUST004",
+    "name": "Priya Verma",
+    "phone": "9090909090",
+    "address": "Lucknow, UP",
+    "city": "Lucknow",
+    "credit_score": 802,
+    "salary": 120000,
+    "preapproved_limit": 600000
+  }
+]
